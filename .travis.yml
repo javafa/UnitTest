@@ -6,7 +6,7 @@ android:
   components:
   - platform-tools                # ADB
   - tools                         # 실제 안드로이드 SDK
-  - build-tools-26.0.2            # 빌드툴
+  - build-tools-27.0.3            # 빌드툴
   - android-27                    # 타겟 버전
   - extra-android-m2repository    # 안드로이드 라이브러리
 
